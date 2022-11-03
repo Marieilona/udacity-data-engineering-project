@@ -13,20 +13,20 @@ The project instruction provided from Udacity can be read in the next section.
 # Project instructions from Udacity
 Udacity provide the following project intructions:
 
-Step 1: Scope the Project and Gather Data
+**Step 1: Scope the Project and Gather Data**  
 Since the scope of the project will be highly dependent on the data, these two things happen simultaneously. In this step, you’ll:
 * Identify and gather the data you'll be using for your project (at least two sources and more than 1 million rows). See Project Resources for ideas of what data you can use.
 * Explain what end use cases you'd like to prepare the data for (e.g., analytics table, app back-end, source-of-truth database, etc.)
 
-Step 2: Explore and Assess the Data
+**Step 2: Explore and Assess the Data**
 * Explore the data to identify data quality issues, like missing values, duplicate data, etc.
 * Document steps necessary to clean the data
 
-Step 3: Define the Data Model
+**Step 3: Define the Data Model**
 * Map out the conceptual data model and explain why you chose that model
 * List the steps necessary to pipeline the data into the chosen data model
 
-Step 4: Run ETL to Model the Data
+**Step 4: Run ETL to Model the Data**
 * Create the data pipelines and the data model
 * Include a data dictionary
 * Run data quality checks to ensure the pipeline ran as expected
@@ -34,7 +34,7 @@ Step 4: Run ETL to Model the Data
   * Unit tests for the scripts to ensure they are doing the right thing
   * Source/count checks to ensure completeness
 
-Step 5: Complete Project Write Up
+**Step 5: Complete Project Write Up**
 * What's the goal? What queries will you want to run? How would Spark or Airflow be incorporated? Why did you choose the model you chose?
 * Clearly state the rationale for the choice of tools and technologies for the project.
 * Document the steps of the process.
