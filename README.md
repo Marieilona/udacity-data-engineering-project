@@ -45,5 +45,5 @@ Since the scope of the project will be highly dependent on the data, these two t
   * If the pipelines were run on a daily basis by 7am.
   * If the database needed to be accessed by 100+ people.
  
- # Limitations
+ # Limitations and future steps
 This project is just a simple start on creating a data model and several improvments exisits. Corrupt data, missing field and duplicate values should be captured and logged to a greater extent. Furthermore, more quality checks should be added. As of now the data model only use historical data. However, it would be even more interesting to look at newer data and update the data model on a monthly basis. Adding more data would require even more attention to the data quality as well as finding a reasonable way to automate the process.
